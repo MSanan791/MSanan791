@@ -15,12 +15,8 @@ Passionate about AI research and web development, I thrive on building innovativ
 💻 Languages: Python, C++, Java, JavaScript, C#
 ⚙️ Embedded Systems: PIC18F, RISC-V, System Verilog
 🌐 Web Dev: React, Node.js, SQL, AWS
-🛠️ Tools: Git, Docker, Postgres, OpenCV
+🛠️ Tools: Git, Docker, Postgres, OpenCV, UE5, Blender
 
-💼 Experience
-🎯 Intern at Redbuffer.ai – Enhanced my web dev skills, worked on cutting-edge projects!
-🌍 AIESEC Leadership – Collaborated with an 8-person team, growing our portfolio & impact.
-🎮📚 More About Me
 Beyond coding, you’ll find me:
 🎮 Gaming (because who doesn’t love a good challenge?)
 👨‍🍳 Experimenting in the kitchen (tech skills apply to cooking too!)
