@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 Hi there! I'm Muhammad Sanan Khan 👋💻
 🚀 Computer Engineering Student | AI & Web Development Enthusiast
 
@@ -26,6 +26,3 @@ Beyond coding, you’ll find me:
 👨‍🍳 Experimenting in the kitchen (tech skills apply to cooking too!)
 📖 Diving into books & research papers
 🔧 Engineering small projects with my dad – we tinker, build, and innovate!
-
-
--->
