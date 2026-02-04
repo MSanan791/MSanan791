@@ -11,7 +11,7 @@ I thrive on building end-to-end solutions—whether it's architecting a **RAG-ba
 
 * **🤖 AI & Agentic Workflows:** Building RAG pipelines and intelligent agents using LangChain & Gemini.
 * **🌐 Full-Stack Development:** Creating dynamic web ecosystems using React, Node.js, and PostgreSQL.
-* **☁️ DevOps & Cloud:** Deploying scalable applications using AWS (EC2, Amplify) and Docker.
+* **☁️ DevOps & Cloud:** Deploying scalable applications using AWS, AZURE and Docker.
 * **⚙️ Embedded Systems:** Bridging software with hardware (RISC-V, Verilog, Raspberry Pi).
 
 ---
