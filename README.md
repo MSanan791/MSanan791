@@ -3,7 +3,7 @@
 
 I am a final-year **Computer Engineering Student** at **NUST CEME** passionate about bridging the gap between **Complex AI Models** and **Scalable Software Systems**.
 
-I thrive on building end-to-end solutions—whether it's architecting a **RAG-based AI Agent**, optimizing **Full-Stack Web Apps**, or deploying systems to the **Cloud (AWS)**. My goal is to engineer software that is not just intelligent, but also reliable and production-ready.
+I thrive on building end-to-end solutions—whether it's architecting a **RAG-based AI Agent**, optimizing **Full-Stack Web Apps**, or deploying systems to the **Cloud (AWS, AZURE)**. My goal is to engineer software that is not just intelligent, but also reliable and production-ready.
 
 ---
 
