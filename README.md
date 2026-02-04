@@ -75,14 +75,8 @@ When I'm not deploying code or training models, you can find me:
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSanan791&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSanan791&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Muhammad Sanan Khan]((https://www.linkedin.com/in/msanan-khan/))
+- 💼 **LinkedIn:** [Muhammad Sanan Khan](https://www.linkedin.com/in/msanan-khan/)
 - 📧 **Email:** sanan791@gmail.com
